@@ -12,7 +12,7 @@
 
 ## Usage
 
-### mktempDir([prefix='tmp']);
+### mktempDir([prefix='tmp'], [callback]);
 
 - `prefix` `<String>`
 
@@ -38,7 +38,7 @@ mktempDir()
   });
 ```
 
-### mktempDirSync([prefix='tmp'], [callback])
+### mktempDirSync([prefix='tmp'])
 
 - `prefix` `<String>`
 - `callback` `<Function>`
@@ -51,7 +51,7 @@ const { mktempDirSync } = require('fs-mktemp');
 console.log(mktempDirSync());
 ```
 
-### mktempFile([prefix='tmp'])
+### mktempFile([prefix='tmp'], [callback])
 
 - `prefix` `<String>`
 
@@ -77,7 +77,7 @@ mktempFile()
   });
 ```
 
-### mktempFileSync([prefix='tmp'], [callback])
+### mktempFileSync([prefix='tmp'])
 
 - `prefix` `<String>`
 - `callback` `<Function>`

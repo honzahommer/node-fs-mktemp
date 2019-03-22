@@ -3,7 +3,7 @@
 [![npm Package](https://img.shields.io/npm/v/fs-mktemp.svg)](https://www.npmjs.org/package/fs-mktemp)
 [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/honzahommer/node-fs-mktemp/blob/master/LICENSE)
 [![build status](https://img.shields.io/travis/honzahommer/node-fs-mktemp/master.svg)](http://travis-ci.org/honzahommer/node-fs-mktemp)
-[![downloads per month](http://img.shields.io/npm/dm/fs-mktemp.svg)](https://www.npmjs.org/package/fs-mktemp)
+[![downloads per month](http://img.shields.io/npm/dm/fs-mktemp.svg)](https://www.npmjs.org/package/fs-mktemp) [![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/node-fs-mktemp.svg)](https://greenkeeper.io/)
 
 > `mktemp` command for Node.js
 

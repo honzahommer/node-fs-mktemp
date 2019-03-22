@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.0.1](https://github.com/honzahommer/node-fs-mktemp/tree/v1.0.1) (2019-03-22)
+[Full Changelog](https://github.com/honzahommer/node-fs-mktemp/compare/v1.0.0...v1.0.1)
+
+**Merged pull requests:**
+
+- Add Greenkeeper badge 🌴 [\#1](https://github.com/honzahommer/node-fs-mktemp/pull/1) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v1.0.0](https://github.com/honzahommer/node-fs-mktemp/tree/v1.0.0) (2019-03-22)
 
 

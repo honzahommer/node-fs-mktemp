@@ -22,7 +22,9 @@
     "mktemp",
     "temp"
   ],
+  "repository": "honzahommer/node-fs-mktemp",
   "author": "Honza Hommer <honza@homer.cz>",
+  "homepage": "https://github.com/honzahommer/node-fs-mktemp#README",
   "license": "MIT",
   "husky": {
     "hooks": {

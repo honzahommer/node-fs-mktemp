@@ -57,7 +57,9 @@ console.log(mktempDirSync());
 - `options.content` `<String>`
 - `options.prefix` `<String>`
 - `callback` `<Function>`
+
 *- or -*
+
 - `prefix` `<String>`
 - `callback` `<Function>`
 
@@ -88,7 +90,9 @@ mktempFile()
 - `options` `<Object>`
 - `options.content` `<String>`
 - `options.prefix` `<String>`
+
 *- or -*
+
 - `prefix` `<String>`
 
 #### Example

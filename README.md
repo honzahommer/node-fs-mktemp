@@ -15,6 +15,7 @@
 ### mktempDir([prefix='tmp'], [callback]);
 
 - `prefix` `<String>`
+- `callback` `<Function>`
 
 #### Example
 
@@ -41,7 +42,6 @@ mktempDir()
 ### mktempDirSync([prefix='tmp'])
 
 - `prefix` `<String>`
-- `callback` `<Function>`
 
 #### Example
 
@@ -51,9 +51,15 @@ const { mktempDirSync } = require('fs-mktemp');
 console.log(mktempDirSync());
 ```
 
-### mktempFile([prefix='tmp'], [callback])
+### mktempFile([options={content:'',prefix:'tmp'}|prefix='tmp'], [callback])
 
+- `options` `<Object>`
+- `options.content` `<String>`
+- `options.prefix` `<String>`
+- `callback` `<Function>`
+*- or -*
 - `prefix` `<String>`
+- `callback` `<Function>`
 
 #### Example
 
@@ -77,10 +83,13 @@ mktempFile()
   });
 ```
 
-### mktempFileSync([prefix='tmp'])
+### mktempFileSync([options={content:'',prefix:'tmp'}|prefix='tmp'])
 
+- `options` `<Object>`
+- `options.content` `<String>`
+- `options.prefix` `<String>`
+*- or -*
 - `prefix` `<String>`
-- `callback` `<Function>`
 
 #### Example
 

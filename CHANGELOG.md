@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.1.2](https://github.com/honzahommer/node-fs-mktemp/tree/v1.1.2) (2019-04-26)
+[Full Changelog](https://github.com/honzahommer/node-fs-mktemp/compare/v1.1.1...v1.1.2)
+
+**Merged pull requests:**
+
+- Update husky to the latest version 🚀 [\#3](https://github.com/honzahommer/node-fs-mktemp/pull/3) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v1.1.1](https://github.com/honzahommer/node-fs-mktemp/tree/v1.1.1) (2019-04-16)
 [Full Changelog](https://github.com/honzahommer/node-fs-mktemp/compare/v1.1.0...v1.1.1)
 

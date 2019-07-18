@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.1.3](https://github.com/honzahommer/node-fs-mktemp/tree/v1.1.3) (2019-07-18)
+[Full Changelog](https://github.com/honzahommer/node-fs-mktemp/compare/v1.1.2...v1.1.3)
+
+**Merged pull requests:**
+
+- Bump lodash from 4.17.11 to 4.17.14 [\#5](https://github.com/honzahommer/node-fs-mktemp/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update husky to the latest version 🚀 [\#4](https://github.com/honzahommer/node-fs-mktemp/pull/4) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v1.1.2](https://github.com/honzahommer/node-fs-mktemp/tree/v1.1.2) (2019-04-26)
 [Full Changelog](https://github.com/honzahommer/node-fs-mktemp/compare/v1.1.1...v1.1.2)
 
